@@ -3,21 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <link rel="icon" href="animated_favicon.gif" type="image/gif" > -->
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+
     <title>loading...</title>
 </head>
 <body>
+
+    <main style="display: grid; place-content: center; background-color: #fff; width: 100%; height: 100%;">
+        <img src="./loading.gif" alt="" style="border-radius: 16px;">
+    </main>
     <script type="module">
-        import URLS from './data/urls.json'
+        import URLS from './data/urls.json' assert { type: "json" };
 
         //Get query params from URL
         const searchParams = new URLSearchParams(window.location.search);
-        console.log(searchParams.has('url'));
-        console.log(searchParams.get('url'));
-        let urlToSwitch = searchParams.get('url')
-        console.log(URLS);
+        let param  = searchParams.get('url');
+        let urlToSwitch = URLS[param]??'index.html'
         
         //Redirect to the url
-        window.location.replace(URLS[urlToSwitch]);
+        window.location.replace(urlToSwitch);
     </script>
 </body>
 </html>

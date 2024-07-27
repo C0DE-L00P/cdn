@@ -1,4 +1,4 @@
-export default urls = {
+const urls = {
     "fsresume":"https://drive.google.com/file/d/18M3W4Gvu2CRczY3yiyQ7KDW8rmbwbnRv",
     "loudy":"https://spectacular-syrniki-9a7f35.netlify.app/",
     "nextech":"https://nextech-ruddy.vercel.app/",
@@ -14,3 +14,4 @@ export default urls = {
     "eagles":"https://theeaglesesports1.mydurable.com"
   }
   
+export default urls;

@@ -11,7 +11,9 @@ const urls = {
     "seaa":"https://staging.seaasaudi.com",
     "ratelmay":"https://ratel-ma3y-amcademy-app.vercel.app",
     "kabees":"https://drive.google.com/file/d/1HtuDinCLhhysC8cBUjxrFPrA3ZwFrTxh/view",
-    "eagles":"https://theeaglesesports1.mydurable.com"
+    "eagles":"https://theeaglesesports1.mydurable.com",
+    "nobogh":"https://nobogh.net",
+    "miran":"https://community.miran.com.sa/miran-community",
   }
   
 export default urls;

@@ -6,7 +6,7 @@ const urls = {
     "qasrhotels":"https://alqasrhotel.com/",
     "jobsque":"https://play.google.com/store/apps/details?id=org.devloop.jobsque",
     "sayaratic":"https://c0de-l00p.github.io/Sayaratic/",
-    "aiche":"https://play.google.com/store/apps/details?id=com.domain.firebaseapp",
+    "aiche":"https://aiche.en.aptoide.com/app",
     "trysnd":"https://app.trysnd.com",
     "seaa":"https://staging.seaasaudi.com",
     "ratelmay":"https://ratel-ma3y-amcademy-app.vercel.app",

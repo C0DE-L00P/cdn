@@ -15,6 +15,7 @@ const urls = {
     "nobogh":"https://nobogh.net",
     "miran":"https://community.miran.com.sa/miran-community",
     "anwani_app":"https://play.google.com/store/apps/details?id=com.apexnile.anwaniand",
+    "anwani_app_ios":"https://apps.apple.com/eg/app/3nwani/id6739836108?platform=iphone",
     "ajan":"https://script.google.com/macros/s/AKfycbyW_tZVp1x7pOjqzLn_EwoFbJ9LeXRvBA9g9n6h9ZdQkFMOLS4st8gW4_98rwtnZcRe/exec"
   }
   

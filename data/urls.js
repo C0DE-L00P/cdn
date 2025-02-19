@@ -14,7 +14,7 @@ const urls = {
     "eagles":"https://theeaglesesports1.mydurable.com",
     "nobogh":"https://nobogh.net",
     "miran":"https://community.miran.com.sa/miran-community",
-    
+    "anwani_app":"https://play.google.com/store/apps/details?id=com.apexnile.anwaniand",
     "ajan":"https://script.google.com/macros/s/AKfycbyW_tZVp1x7pOjqzLn_EwoFbJ9LeXRvBA9g9n6h9ZdQkFMOLS4st8gW4_98rwtnZcRe/exec"
   }
   
